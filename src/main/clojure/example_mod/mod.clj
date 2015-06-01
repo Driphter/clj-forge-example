@@ -7,7 +7,7 @@
             example-mod.crafting))
 
 (gen-class :name ^{cpw.mods.fml.common.Mod {:modid    "example-mod"
-                                            :name     "example-mod"
+                                            :name     "Example Mod"
                                             :version  "0.1.0"}}
                  driphter.ExampleMod
            :prefix -mod-

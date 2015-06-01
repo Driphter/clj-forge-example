@@ -6,4 +6,4 @@
   (create-tab
     :name            "example-tab"
     :mod-id          "example-mod"
-    :icon-item-name  "LambdaBlock"))
+    :icon-item-name  "lambda"))
